@@ -1,0 +1,38 @@
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+section.main {
+	background: url('../images/bg.jpg') center center;
+	background-size:cover;
+	height: 500px;
+	padding-top: 30px;
+	padding-bottom:60px;
+
+}
+
+.main .headline-caption {
+	font-size:12px;
+	padding-top:40px;
+	color:#fff;
+	text-align: center;
+}
+
+h1.headline {
+	font-size:46px;
+	color:#fff;
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom:50px;
+}
+
+.navbar-latam {
+	background-color:transparent;
+	border-color:rgba(0,0,0,0);
+}
+
+.navbar-dbz {
+	width:200px;
+	margin-top:-30px;
+}
